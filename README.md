@@ -1,60 +1,320 @@
-<!--
-**Vaibhavkumar5158/Vaibhavkumar5158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+ <!--
+  Vaibhav Kumar | GitHub Profile README
+  Theme: Black + Red | Full Stack Development
+-->
 
-<img width="1738" height="582" alt="image" src="https://github.com/user-attachments/assets/dfb232e8-2ffa-43bf-8510-96a4cd49fdd7" />
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vaibhavkumar5158" alt="Vaibhavkumar5158" />
-</p>
-
-<hr>
-
-# 💫 About Me:
-🔭 I'm currently working on<br>Hostiva — a full-stack event management platform built with Next.js, Firebase, and Clerk<br>👯 I'm looking to collaborate on<br>Full-stack web projects using the MERN stack or Next.js, especially AI-integrated platforms and open source contributions<br>🤝 I'm looking for help with<br>System Design at scale and advanced cloud architecture on AWS/Azure<br>🌱 I'm currently learning<br>System Design, Cloud Infrastructure (Azure & Oracle Cloud), and AI integration in web applications<br>💬 Ask me about<br>MERN Stack, Next.js, React.js, DSA in C++/Java, JWT/OAuth authentication, and AI-powered web platforms<br>
-
-
-<h2 align="center">🔭 Tools of Trade</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/next.js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mongodb%20-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-<p align="center">React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, TailwindCSS, Firebase, Docker, Git, GitHub, Vercel, Render, AWS, Postman.</p>
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vikhyatchaudhaary/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-kumar-30a1b228a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavkumar5158@gmail.com)
-
-
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-
-
-# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavkumar5158&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavkumar5158&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img width="100%" src="https://github.com/user-attachments/assets/dfb232e8-2ffa-43bf-8510-96a4cd49fdd7" alt="Vaibhav Kumar - Full Stack Developer Banner" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3B3B&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+%7C+Next.js+Developer;Building+Ideas+Into+Real+Products;Code.+Build.+Break.+Fix.+Repeat.;Always+Learning%2C+Always+Building." alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Vaibhavkumar5158&style=for-the-badge&color=E50914&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Vaibhavkumar5158?style=for-the-badge&color=E50914&label=FOLLOWERS" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Vaibhavkumar5158?style=for-the-badge&color=E50914&label=TOTAL+STARS" alt="GitHub Stars" />
+</p>
+
+### `</>` Turning coffee ☕ into code and ideas 💡 into impact.
+
+**I don't just write code — I build experiences, solve problems, and turn concepts into working products.**
+
+<a href="https://github.com/Vaibhavkumar5158?tab=repositories">
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PROJECTS-111111?style=for-the-badge&logoColor=white" alt="Explore Projects" />
+</a>
+<a href="https://www.linkedin.com/in/vaibhav-kumar-30a1b228a/">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT-E50914?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+
 </div>
 
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavkumar5158/vaibhavkumar5158/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhavkumar5158/vaibhavkumar5158/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vaibhavkumar5158/vaibhavkumar5158/output/pacman-contribution-graph.svg">
-</picture>
+## 🩸 `01` — Who Am I?
 
+```javascript
+const vaibhav = {
+    name: "Vaibhav Kumar",
+    role: "Full Stack Web Developer",
+    education: "B.Tech CSE @ VIT Bhopal University",
+    focus: ["Full Stack Development", "Problem Solving", "Cloud", "AI Integration"],
+    frontend: ["React.js", "Next.js", "JavaScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+    languages: ["C++", "Java", "JavaScript", "SQL"],
+    cloud: ["AWS", "Azure", "Oracle Cloud"],
+    mindset: "Learn → Build → Improve → Repeat",
+    currentlyBuilding: "Hostiva 🚀"
+};
+```
 
-<br clear="both">
+Hey! I'm Vaibhav, a Computer Science and Engineering student passionate about full-stack development, modern web technologies, and building applications that solve real problems.
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+I enjoy working across the entire development lifecycle — from designing interfaces and developing REST APIs to integrating databases, implementing authentication, and deploying applications.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+For me, development is more than making something work. It's about understanding the problem, writing maintainable code, improving the user experience, and continuously learning better ways to build software.
+
+- 🔭 **Building:** Hostiva, a full-stack event management platform.
+- 🌱 **Learning:** System Design, cloud infrastructure, and AI integration.
+- 💻 **Practicing:** Data Structures and Algorithms, problem-solving, and software development fundamentals.
+- 🤝 **Collaborating:** Open-source contributions and full-stack projects.
+- ☁️ **Exploring:** Cloud architecture, scalable applications, and deployment workflows.
+- 🎯 **Mission:** Build meaningful products, one commit at a time.
+
+> *"Great software isn't built in a day. It's built one thoughtful decision, one solved problem, and one commit at a time."*
+
+---
+
+## 🔥 `02` — What I'm Focused On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Full Stack Engineering
+
+Building complete web applications with modern frontend frameworks, backend APIs, databases, and authentication.
+
+- Responsive UI development
+- REST API design and integration
+- Authentication and authorization
+- Database modeling and CRUD workflows
+- Deployment and debugging
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Problem Solving
+
+Strengthening computer science fundamentals and writing efficient, maintainable solutions.
+
+- Data Structures and Algorithms
+- C++ and object-oriented programming
+- DBMS and SQL
+- Debugging and optimization
+- Software design fundamentals
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Infrastructure
+
+Learning how applications are deployed, secured, and operated in cloud environments.
+
+- AWS architecture fundamentals
+- Azure and Oracle Cloud
+- Environment configuration
+- Deployment workflows
+- Reliability and scalability
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered Applications
+
+Exploring practical ways to integrate AI into useful software products.
+
+- AI API integration
+- LLM-powered application workflows
+- Prompt design and experimentation
+- Useful, user-focused AI features
+- Responsible error handling and validation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ `03` — My Developer Arsenal
+
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-CC0000?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Data
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+### ☁️ Cloud, Deployment & Developer Tools
+
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 🚀 `04` — Projects I've Built
+
+> *Ideas are the beginning. Working products are the goal.*
+
+### 🎟️ Hostiva — Event Management Platform
+
+**A modern platform for managing events and creating smoother user experiences.**
+
+- Building a full-stack event management experience using Next.js, Firebase, and Clerk.
+- Working with authentication and user-focused application workflows.
+- Exploring clean UI design, application structure, and scalable feature development.
+
+**Tech:** `Next.js` `Firebase` `Clerk`
+
+### 💰 Welth — AI-Powered Finance Platform
+
+**A finance application focused on helping users manage and understand their finances.**
+
+- Built with Next.js and Supabase-backed data workflows.
+- Uses Prisma for database access and Inngest for background and scheduled workflows.
+- Integrates AI-related features into the personal finance experience.
+
+**Tech:** `Next.js` `Supabase` `Prisma` `Inngest` `Tailwind CSS`
+
+🔗 [Explore Welth](https://welth-ebon-xi.vercel.app/)
+
+### 🛒 GreenCart — Grocery E-Commerce Application
+
+**A full-stack grocery shopping application connecting product discovery with shopping workflows.**
+
+- Developed frontend and backend functionality using React and Express.
+- Integrated MongoDB for application data and Cloudinary for media uploads.
+- Worked with authentication, product categories, cart-related workflows, and API integration.
+
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `Cloudinary`
+
+### 🎓 Final Year Project Management System
+
+**A centralized platform for managing academic project proposals, reviews, and approvals.**
+
+- Created role-based workflows for students, teachers, and administrators.
+- Implemented proposal tracking, supervisor-related workflows, and document uploads.
+- Integrated frontend interfaces with REST APIs and authentication.
+- Focused on maintaining consistent project status across multiple user roles.
+
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+
+<div align="center">
+
+<a href="https://github.com/Vaibhavkumar5158?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-E50914?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+</a>
+
+</div>
+
+---
+
+## 🏅 `05` — Certifications & Learning
+
+<p>
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect Associate" />
+</p>
+
+- ☁️ **AWS Certified Solutions Architect – Associate** — Cloud architecture, secure design, resilience, performance, and cost optimization.
+- 🔷 **Microsoft Certified: Azure Data Fundamentals (DP-900)** — Relational and non-relational data concepts and Azure data services.
+- 🧠 **Oracle Cloud Infrastructure Generative AI Professional** — Generative AI concepts and OCI-related learning.
+- 📚 **NPTEL — Introduction to Machine Learning** — Elite Certificate, IIT Madras.
+
+*Always learning. Always improving. Always looking for the next challenge.*
+
+---
+
+## 📈 `06` — GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vaibhavkumar5158&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github" alt="Vaibhav's GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavkumar5158&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Vaibhavkumar5158&theme=radical&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 🐍 `07` — Contributions in Motion
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vaibhavkumar5158/vaibhavkumar5158/output/snake.svg" alt="Snake animation of GitHub contributions" width="100%" />
+
+</div>
+
+---
+
+## 🤝 `08` — Let's Build Something Great
+
+I'm open to connecting with developers, collaborating on interesting projects, contributing to open source, and learning from people who enjoy building great software.
+
+If you're working on an interesting idea, have a project to collaborate on, or simply want to talk about technology, feel free to reach out!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vaibhav-kumar-30a1b228a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:vaibhavkumar5158@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-E50914?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Vaibhavkumar5158">
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+### ⚡ CODE. CREATE. COLLABORATE. REPEAT. ⚡
+
+**Thanks for stopping by! Have a great day and keep building.** ❤️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E50914,50:8B0000,100:111111&height=120&section=footer" width="100%" alt="Red and black footer" />
+
+</div>
+
+<!-- Keep learning. Keep shipping. Keep growing. -->
