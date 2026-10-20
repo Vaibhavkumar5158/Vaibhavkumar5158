@@ -5,7 +5,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/dfb232e8-2ffa-43bf-8510-96a4cd49fdd7" alt="Vaibhav Kumar - Full Stack Developer Banner" />
+<img width="1917" height="647" alt="image" src="https://github.com/user-attachments/assets/e22a83f7-930a-48b0-afdc-4ec52df75c4b" />
+
 
 <br/>
 
